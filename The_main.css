@@ -1,0 +1,76 @@
+#menu {
+    background-color: rgb(138, 138, 220);     
+    padding: 30px;    
+    margin:0px;
+    border-block-style: dotted solid; 
+    border-block-start-width: 8px; 
+    border-block-end-width: 15px; 
+    border-block-color: black grey ;
+    
+}
+
+
+#cl {
+    background-color: rgb(236, 71, 71);
+}
+
+#bth{
+    background-color:  rgb(4, 4, 128);
+    padding: 6px;
+    color: white;
+    border-radius: 100px;
+}
+
+#title2{
+    border-style: ridge;
+    border-width: 12px;
+    border-color: coral;
+}
+
+#bott{
+    background-color: rgb(4, 4, 128);
+    padding: 9px;
+    color: white;
+    border-radius: 100px;
+    position: absolute;
+    bottom: 18px;
+    right: 26px;
+    font-size: 28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
