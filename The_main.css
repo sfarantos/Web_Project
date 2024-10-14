@@ -9,7 +9,6 @@
     
 }
 
-
 #cl {
     background-color: rgb(236, 71, 71);
 }
@@ -21,7 +20,12 @@
     border-radius: 100px;
 }
 
+#title1{
+    text-align: center;
+}
+
 #title2{
+    text-align: center;
     border-style: ridge;
     border-width: 12px;
     border-color: coral;
@@ -37,7 +41,6 @@
     right: 26px;
     font-size: 28px;
 }
-
 
 
 
